@@ -4,9 +4,9 @@
 
 ### Data & Analytics
 
-- 🌐 **[Workforce Flux](https://github.com/kdayno/workforce-flux)** - End-to-end People Analytics (DuckDB, dbt, Evidence)
-- 🌉 **[SF Crime Stats](https://github.com/kdayno/sf-crime-stats)** - San Francisco crime trends & location patterns (GCP, BigQuery, MageAI, Preset)
-- 📈 **[Market Pulse](https://github.com/kdayno/market-pulse)** - Stock market and public sentiment dashboard for retail investors (AWS, Databricks, AirFlow)
+- 🌐 **[Workforce Flux](https://github.com/kdayno/workforce-flux)** - End-to-end People Analytics (dbt, DuckDB, Evidence)
+- 🌉 **[SF Crime Stats](https://github.com/kdayno/sf-crime-stats)** - San Francisco crime trends & location patterns (BigQuery, MageAI, Preset, GCP)
+- 📈 **[Market Pulse](https://github.com/kdayno/market-pulse)** - Stock market and public sentiment dashboard for retail investors (Databricks, AirFlow, AWS)
 
 ### AI & Experiments
 
@@ -25,16 +25,16 @@
 <br>
 
 ```
-                          .                  .-.    .  _   *     _   .
-                                 *          /   \     ((       _/ \       *    .
-                               _    .   .--'\/\_ \     `      /    \  *    ___
-                           *  / \_    _/ ^      \/\'__        /\/\  /\  __/   \ *
-                             /    \  /    .'   _/  /  \  *' /    \/  \/ .`'\_/\   .
-                        .   /\/\  /\/ :' __  ^/  ^/    `--./.'  ^  `-.\ _    _:\ _
-                           /    \/  \  _/  \-' __/.' ^ _   \_   .'\   _/ \ .  __/ \
-                         /\  .-   `. \/     \ / -.   _/ \ -. `_/   \ /    `._/  ^  \
-                        /  `-.__ ^   / .-'.--'    . /    `--./ .-'  `-.  `-. `.  -  `.
-                  ____@/        `.  / /      `-.   /  .-'   / .   .'   \    \  \  .-  \%:____
-                ------ ---- ------------- --------------- ---------------- ----------- --------
-                    --------- ------------------------ ---------------------- -------------
+                            .                  .-.    .  _   *     _   .
+                                   *          /   \     ((       _/ \       *    .
+                                 _    .   .--'\/\_ \     `      /    \  *    ___
+                             *  / \_    _/ ^      \/\'__        /\/\  /\  __/   \ *
+                               /    \  /    .'   _/  /  \  *' /    \/  \/ .`'\_/\   .
+                          .   /\/\  /\/ :' __  ^/  ^/    `--./.'  ^  `-.\ _    _:\ _
+                             /    \/  \  _/  \-' __/.' ^ _   \_   .'\   _/ \ .  __/ \
+                           /\  .-   `. \/     \ / -.   _/ \ -. `_/   \ /    `._/  ^  \
+                          /  `-.__ ^   / .-'.--'    . /    `--./ .-'  `-.  `-. `.  -  `.
+                    ____@/        `.  / /      `-.   /  .-'   / .   .'   \    \  \  .-  \%:____
+                  ------ ---- ------------- --------------- ---------------- ----------- --------
+                      --------- ------------------------ ---------------------- -------------
 ```
